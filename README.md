@@ -1,5 +1,9 @@
 # data-analytics-code
 
-Tableau.md contains a link to a Tableau Public Dashboard, made to be accessable to those with color deficiency.
 
-The Projects Folder contains my Capstone code for a Deep Neural Network and other projects I have personally worked on.
+
+Projects Folder
+	Capstone - Linear Regression and Deep Neural Networks on Market Data
+	Diabetes - Deep Neural Networks for Classification of Patient Data
+	
+Tableau Examples can be found at https://public.tableau.com/views/D210-DerrickSchaffer/DemographicsDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
