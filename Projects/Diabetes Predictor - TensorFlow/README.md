@@ -1,5 +1,3 @@
-# Capstone
-
 Project Name: Deep Neural Network for Classification of Patient Data
 
 Research question: Can a Deep Neural Network be constructed using Patient
