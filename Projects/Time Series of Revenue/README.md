@@ -1,5 +1,3 @@
-# Capstone
-
 Project Name: Time Series Analysis of Revenue
 
 Data provided by Western Governor's University
