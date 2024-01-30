@@ -3,6 +3,7 @@
 
 
 Projects Folder
+
 	Capstone - Linear Regression and Deep Neural Networks on Market Data
 	Diabetes - Deep Neural Networks for Classification of Patient Data
 	
